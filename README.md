@@ -1,4 +1,4 @@
-## Fast Analytics with data.table in R
+## High-Volume Transaction Analytics with data.table in R
 
 
 ### 1. Why data.table?
